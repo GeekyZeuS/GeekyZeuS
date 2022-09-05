@@ -1,4 +1,4 @@
-![](https://github.com/TSxZeuS/geekyzeus/banner.png)
+<img alt="banner" src="https://github.com/TSxZeus/geekyzeus/blob/main/BANNER.png"/>
 <h1 align="center">Hi 👋, I'm Dennis D souza</h1>
 <h3 align="center">A passionate learner who has just stepped in the world of coding ,technologies & innovations.</h3>
 
