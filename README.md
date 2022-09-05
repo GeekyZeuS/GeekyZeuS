@@ -1,3 +1,4 @@
+![](https://github.com/TSxZeuS/geekyzeus/banner.png)
 <h1 align="center">Hi 👋, I'm Dennis D souza</h1>
 <h3 align="center">A passionate learner who has just stepped in the world of coding ,technologies & innovations.</h3>
 
@@ -16,4 +17,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-![WhatsApp Image 2022-09-05 at 10 08 55 PM](https://user-images.githubusercontent.com/107063077/188507150-aaf2237a-caf0-4107-82e4-a901231577fe.png)
+
